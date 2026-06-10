@@ -62,9 +62,7 @@ const skillsSection = {
     emoji(
       "⚡ Integrate AI capabilities using Spring AI, MCP, LLMs and RAG architectures to build intelligent applications"
     ),
-    emoji(
-      "⚡ Deploy secure, highly available applications on AWS and Azure"
-    ),
+    emoji("⚡ Deploy secure, highly available applications on AWS and Azure"),
     emoji(
       "⚡ Lead platform modernization, monolith-to-microservice migrations and technical architecture decisions"
     )
@@ -179,8 +177,7 @@ const workExperiences = {
       company: "PwC",
       companylogo: require("./assets/images/pwc.png"),
       date: "Oct 2022 – Present",
-      desc:
-        "Leading enterprise-scale application development and AI-powered solutions across healthcare, retail, and fintech domains.",
+      desc: "Leading enterprise-scale application development and AI-powered solutions across healthcare, retail, and fintech domains.",
       descBullets: [
         "Architected AI-powered SaaS BI platform using LLMs and Snowflake Cortex",
         "Built employee management portal serving 500–5000 employees",
@@ -194,8 +191,7 @@ const workExperiences = {
       company: "Fiserv",
       companylogo: require("./assets/images/fiserv.png"),
       date: "Jan 2021 – Oct 2022",
-      desc:
-        "Worked on large-scale modernization and architecture transformation initiatives.",
+      desc: "Worked on large-scale modernization and architecture transformation initiatives.",
       descBullets: [
         "Migrated legacy servlet UI to Angular",
         "Decomposed monolith into microservices",
@@ -208,8 +204,7 @@ const workExperiences = {
       company: "Virtusa",
       companylogo: require("./assets/images/virtusa.png"),
       date: "Mar 2018 – Dec 2020",
-      desc:
-        "Delivered secure banking and financial services applications.",
+      desc: "Delivered secure banking and financial services applications.",
       descBullets: [
         "Implemented OAuth/OIDC authentication flows",
         "Integrated PingID MFA",
@@ -222,8 +217,7 @@ const workExperiences = {
       company: "Sellinall",
       companylogo: require("./assets/images/sellinall.png"),
       date: "Mar 2017 – Mar 2018",
-      desc:
-        "Built eCommerce integrations and customer onboarding solutions.",
+      desc: "Built eCommerce integrations and customer onboarding solutions.",
       descBullets: [
         "Integrated Magento platform",
         "Implemented Adobe Sign onboarding workflow",
@@ -245,8 +239,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Featured Projects",
-  subtitle:
-    "ENTERPRISE PLATFORMS AND DIGITAL TRANSFORMATION INITIATIVES",
+  subtitle: "ENTERPRISE PLATFORMS AND DIGITAL TRANSFORMATION INITIATIVES",
 
   projects: [
     {
@@ -286,15 +279,15 @@ const achievementSection = {
       title: "AWS Certified Cloud Practitioner",
       subtitle:
         "Certified in AWS cloud fundamentals and cloud-native architectures.",
-        image: require("./assets/images/aws-cert.png"),
-  imageAlt: "AWS Certification Badge"
+      image: require("./assets/images/aws-cert.png"),
+      imageAlt: "AWS Certification Badge"
     },
     {
       title: "Microsoft Azure Fundamentals (AZ-900)",
       subtitle:
         "Certified in Azure cloud services and infrastructure fundamentals.",
-        image: require("./assets/images/azure-cert.png"),
-  imageAlt: "Azure Fundamentals Badge"
+      image: require("./assets/images/azure-cert.png"),
+      imageAlt: "Azure Fundamentals Badge"
     }
   ],
 
