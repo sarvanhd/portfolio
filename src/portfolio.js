@@ -26,7 +26,7 @@ const greeting = {
     "Senior Full Stack Engineer with 10+ years of experience building scalable enterprise platforms across fintech, healthcare, retail, and banking domains. Specialized in Java, Spring Boot, React, Angular, Microservices, AWS, Azure, and AI-powered solutions using Spring AI, MCP, LLMs, and RAG."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1jB8HhQoRdXscS3xV9v6SDpZuy095O2JO/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1r-aOFtuJYZfZofCg-YIOu7oLkNBYtKGK/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
